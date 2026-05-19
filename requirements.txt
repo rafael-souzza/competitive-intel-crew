@@ -1,7 +1,5 @@
 streamlit
-crewai==0.80.0
-pytrends
-praw
+crewai==0.76.0
 beautifulsoup4
 requests
 python-dotenv
