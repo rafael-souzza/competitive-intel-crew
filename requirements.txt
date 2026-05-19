@@ -1,0 +1,7 @@
+crewai
+streamlit
+pytrends
+praw
+beautifulsoup4
+requests
+python-dotenv
