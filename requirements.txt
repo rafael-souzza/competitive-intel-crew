@@ -6,3 +6,4 @@ beautifulsoup4
 requests
 python-dotenv
 litellm
+setuptools
